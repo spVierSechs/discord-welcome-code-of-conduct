@@ -1,10 +1,9 @@
->Hey! We need your help translating this message into other languages. See the [CONTRIBUTING](./CONTRIBUTING.md) doc for more details.
 
-**TLDR** - **Read this entire message, or you will not be able to gain access to the rest of the channels on this server.**
+**Kurz gesagt** - **Lese diese gesamte Nachricht, oder du wirst nicht Zugriff zu den restlichen Channels in diesem Server bekommen.**
 
-Hello friend! Welcome to the Coding Garden Discord server.
+Hallo Freund! Willkommen zum Coding Garden-Discord Server.
 
-Before you can gain access to the rest of the channels, you must Introduce yourself in #🗣introductions (at least 40 characters) and acknowledge that you have read the code of conduct below by emoji reacting below :point_down:.
+Bevor du Zugriff zu den restlichen Channels bekommst, musst du dich vorstellen in #🗣introductions (Wenigstens 40 Zeichen) and acknowledge that you have read the code of conduct below by emoji reacting below :point_down:.
 
 Before posting a message, please take exactly 30 seconds to decide what channel is the best fit for that message:
 **DO NOT POST THE SAME MESSAGE IN MULTIPLE CHANNELS.** We will see your message and get back to you when we have the time.
